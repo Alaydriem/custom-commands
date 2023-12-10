@@ -1,0 +1,3 @@
+pack.name=Alaydriem's Custom Commands
+pack.description=Execute Custom Commands or MCfunctions
+item.alaydriem_cmcfncmd:controller=§l§9Command Controller

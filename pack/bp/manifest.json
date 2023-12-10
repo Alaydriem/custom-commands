@@ -1,0 +1,63 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Custom  Commands",
+    "description": "Execute player defined mcfunction and commands (0.0.1)",
+    "uuid": "6fb24263-357a-407c-aebe-681f50b2de50",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3628aa61-b514-471b-bfe4-99a9ac0cf0b6",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "type": "script",
+      "uuid": "0a791828-ac67-40db-90a5-cbe7095096b2",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "entry": "scripts/main.js",
+      "language": "javascript"
+    }
+  ],
+  "dependencies": [
+    {
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "fefac453-e05e-4714-a89b-8ba48275bb6d"
+    },
+    {
+      "version": "1.2.0-beta",
+      "module_name": "@minecraft/server-ui"
+    },
+    {
+      "version": "1.8.0-beta",
+      "module_name": "@minecraft/server"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Alaydriem"
+    ]
+  }
+}

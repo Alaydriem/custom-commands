@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Custom Commands",
+    "description": "Execute player defined mcfunction and commands (0.0.1)",
+    "uuid": "fefac453-e05e-4714-a89b-8ba48275bb6d",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      10
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "611d4659-631d-480a-88b4-974bf6078c19",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [],
+  "metadata": {
+    "authors": [
+      "Alaydriem"
+    ]
+  }
+}
