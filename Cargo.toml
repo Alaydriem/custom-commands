@@ -3,7 +3,7 @@ name = "custom-commands"
 authors = ["Charles R. Portwood II <charlesportwoodii@erianna.com>"]
 description = "Execute player defined mcfunction and commands"
 repository = "https://github.com/alaydriem/custom-commands"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 
 [registries.crates-io]

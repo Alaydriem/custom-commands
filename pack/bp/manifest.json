@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "name": "Custom  Commands",
-    "description": "Execute player defined mcfunction and commands (0.0.1)",
+    "description": "Execute player defined mcfunction and commands (0.0.2)",
     "uuid": "6fb24263-357a-407c-aebe-681f50b2de50",
     "version": [
       0,
       0,
-      1
+      2
     ],
     "min_engine_version": [
       1,
@@ -22,7 +22,7 @@
       "version": [
         0,
         0,
-        1
+        2
       ]
     },
     {
@@ -31,7 +31,7 @@
       "version": [
         0,
         0,
-        1
+        2
       ],
       "entry": "scripts/main.js",
       "language": "javascript"
@@ -42,7 +42,7 @@
       "version": [
         0,
         0,
-        1
+        2
       ],
       "uuid": "fefac453-e05e-4714-a89b-8ba48275bb6d"
     },
