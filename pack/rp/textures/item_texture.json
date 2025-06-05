@@ -1,9 +1,9 @@
 {
-  "resource_pack_name": "alaydriem_custom_commands",
+  "resource_pack_name": "Alaydriem's Custom Command",
   "texture_name": "atlas.items",
   "texture_data": {
-    "alaydriem_cmcfncmd.controller": {
-      "textures": "textures/ui/controller"
+    "alaydriem:custom_commands_controller": {
+      "textures": "textures/item/controller"
     }
   }
 }

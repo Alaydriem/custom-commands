@@ -7,11 +7,11 @@
     "version": [
       0,
       0,
-      2
+      3
     ],
     "min_engine_version": [
       1,
-      17,
+      21,
       0
     ]
   },
@@ -22,7 +22,7 @@
       "version": [
         0,
         0,
-        2
+        3
       ]
     },
     {
@@ -31,7 +31,7 @@
       "version": [
         0,
         0,
-        2
+        3
       ],
       "entry": "scripts/main.js",
       "language": "javascript"
@@ -42,17 +42,17 @@
       "version": [
         0,
         0,
-        2
+        3
       ],
       "uuid": "fefac453-e05e-4714-a89b-8ba48275bb6d"
     },
     {
-      "version": "1.2.0-beta",
-      "module_name": "@minecraft/server-ui"
+      "version": "2.0.0-beta",
+      "module_name": "@minecraft/server"
     },
     {
-      "version": "1.8.0-beta",
-      "module_name": "@minecraft/server"
+      "version": "2.0.0-beta",
+      "module_name": "@minecraft/server-ui"
     }
   ],
   "metadata": {

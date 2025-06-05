@@ -1,9 +1,6 @@
 "use strict";
 
-import { world, system } from "@minecraft/server";
-
 import { ActionFormData } from "@minecraft/server-ui";
-
 import { Data } from "./data";
 
 export class Events {
@@ -14,7 +11,7 @@ export class Events {
 
   givePlayerFunctionController() {
     this.player.runCommand(
-      'give "' + this.player.name + '" alaydriem_cmcfncmd:controller 1'
+      'give "' + this.player.name + '" alaydriem:custom_commands_controller 1'
     );
   }
 

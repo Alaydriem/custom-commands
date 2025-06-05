@@ -1,18 +1,15 @@
 {
-  "format_version": "1.20.0",
+  "format_version": "1.21.30",
   "minecraft:item": {
     "description": {
-      "category": "Items",
-      "identifier": "alaydriem_cmcfncmd:controller"
+      "identifier": "alaydriem:custom_commands_controller",
+      "menu_category": {
+        "category": "items"
+      }
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "alaydriem_cmcfncmd.controller"
-      },
-      "minecraft:max_stack_size": 1,
-      "minecraft:creative_category": {
-        "parent": "items"
-      }
+      "minecraft:icon": "alaydriem:custom_commands_controller",
+      "minecraft:max_stack_size": 1
     }
   }
 }

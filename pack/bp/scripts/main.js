@@ -26,7 +26,7 @@ world.beforeEvents.chatSend.subscribe(async (event) => {
 
 world.afterEvents.itemUse.subscribe(async (event) => {
   let ch = new Events(event, event.source);
-  if (event.itemStack.typeId == "alaydriem_cmcfncmd:controller") {
+  if (event.itemStack.typeId == "alaydriem:custom_commands_controller") {
     event.cancel = true;
     system.run(() => {
       ch.showFunctionSelector();
