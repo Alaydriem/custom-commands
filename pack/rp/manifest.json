@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "name": "Custom Commands",
-    "description": "Execute player defined mcfunction and commands (0.0.3)",
+    "description": "Execute player defined mcfunction and commands (0.0.4)",
     "uuid": "fefac453-e05e-4714-a89b-8ba48275bb6d",
     "version": [
       0,
       0,
-      3
+      4
     ],
     "min_engine_version": [
       1,
@@ -22,7 +22,7 @@
       "version": [
         0,
         0,
-        3
+        4
       ]
     }
   ],
